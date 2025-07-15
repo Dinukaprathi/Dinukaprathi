@@ -14,7 +14,7 @@
 
 - 🌱 I’m passionate about **Full Stack Development** and exploring new technologies.
 - 💻 I love building projects with **React, Node.js, Next.js, TypeScript, and Python**.
-- 🛠️ Always eager to learn and work with **cutting-edge tools and frameworks**.
+- 🛠️ Currently building my Portfolio web page and working on a Ceylanray tourism web page.
 - 🎯 My goal: To create impactful solutions and collaborate with amazing developers.
 - ✉️ How to reach me: [dinukatharana13@gmail.com](mailto:dinukatharana13@gmail.com)
 - 🌏 [dinukaprathi.github.io](https://dinukaprathi.github.io) (Portfolio/Blog)
