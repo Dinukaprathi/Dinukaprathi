@@ -1,5 +1,10 @@
 HI, I'm Dinuka Prathiraja
 
+<!-- Animated SVG Intro for GitHub Profile README -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Dinukaprathi+%F0%9F%91%8B;Welcome+to+my+GitHub+profile;I+%E2%9D%A4%EF%B8%8F+Coding+and+Open+Source;Let's+build+something+amazing+!+%F0%9F%9A%80" alt="Intro Animation" />
+</p>
+
 Technologies Used:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
