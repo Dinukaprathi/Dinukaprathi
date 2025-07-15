@@ -16,7 +16,7 @@
 - 💻 I love building projects with **React, Node.js, Next.js, TypeScript, and Python**.
 - 🛠️ Always eager to learn and work with **cutting-edge tools and frameworks**.
 - 🎯 My goal: To create impactful solutions and collaborate with amazing developers.
-- ✉️ How to reach me: [dinukaprathi@gmail.com](mailto:dinukaprathi@gmail.com)
+- ✉️ How to reach me: [dinukatharana13@gmail.com](mailto:dinukatharana13@gmail.com)
 - 🌏 [dinukaprathi.github.io](https://dinukaprathi.github.io) (Portfolio/Blog)
 
 ---
