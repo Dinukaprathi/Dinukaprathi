@@ -1,100 +1,82 @@
-<!--
-Dinuka Prathiraja - Modern GitHub Profile
--->
+<!-- Dinuka Prathiraja GitHub Profile -->
 
-<h1 align="center">Hi 👋 I'm Dinuka Prathiraja</h1>
+<h1 align="center">
+  Hi 👋 I'm Dinuka Prathiraja
+</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+<h3 align="center">
+Full Stack Developer | Tech Enthusiast | Problem Solver
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dinukaprathi&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/Dinukaprathi?label=Followers&style=social" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Creative+Tech+Solutions;Let's+Build+Something+Amazing+Together!" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Computing Undergraduate  
-💻 Passionate **Full Stack Developer**
+✨ Passionate **Full Stack Developer**  
+🚀 Love building modern web apps and exploring new technologies  
 
-- 🌱 Currently learning **Advanced Web Development & Cloud Technologies**
-- 🚀 Building **Modern Web Applications**
-- 🧠 Interested in **AI, Software Architecture, and Scalable Systems**
-- 🛠 Working on **Portfolio Website & Tourism Platform**
-- 🤝 Open to **collaborations and open source projects**
-
-📫 Reach me at:  
-**dinukatharana13@gmail.com**
-
-🌐 Portfolio:  
-https://dinukaprathi.github.io
+- 💻 Tech Stack: **React, Next.js, Node.js, TypeScript**
+- 🧠 Currently Learning **Advanced MERN Architecture**
+- 🛠 Working on **Portfolio Website & Ceylanray Tourism Platform**
+- 🎯 Goal: Build impactful products & innovative startups
+- 🌍 Based in **Sri Lanka**
+- 📫 Reach me: **dinukaprathi@gmail.com**
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,kotlin,php" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,java,kotlin,php,cpp,cs,dotnet" />
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
-</p>
-
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dinukaprathi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinukaprathi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinukaprathi&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinukaprathi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinukaprathi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinukaprathi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🧠 Currently Working On
+# 📈 Contribution Graph
 
-🚗 **EV Charging Station Network Platform**
-
-✈ **Ceylanray Tourism Platform**
-
-📱 **SmartSpend Finance Tracker (Android Kotlin App)**
-
-🌐 **Modern Developer Portfolio Website**
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinukaprathi&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# 🌍 Let's Connect
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Dinukaprathi/Dinukaprathi/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -114,14 +96,18 @@ https://dinukaprathi.github.io
 
 ---
 
-# 🐍 Contribution Snake
+# ☕ Developer Quote
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Dinukaprathi/Dinukaprathi/output/github-contribution-grid-snake.svg"/>
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
 </p>
 
 ---
 
 <p align="center">
-⭐️ From <a href="https://github.com/Dinukaprathi">Dinuka Prathiraja</a>
+
+⭐ From <b>Dinuka Prathiraja</b>
+
 </p>
