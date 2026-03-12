@@ -24,7 +24,7 @@ Full Stack Developer | Tech Enthusiast | Problem Solver
 - 🛠 Working on **Portfolio Website & Ceylanray Tourism Platform**
 - 🎯 Goal: Build impactful products & innovative startups
 - 🌍 Based in **Sri Lanka**
-- 📫 Reach me: **dinukaprathi@gmail.com**
+- 📫 Reach me: **dinukatharana13@gmail.com**
 
 ---
 
